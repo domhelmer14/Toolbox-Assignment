@@ -1,7 +1,7 @@
 # Toolbox-Assignment
 
 https://nmap.org/download
-Setp-By-Step:
+Step-By-Step:
 1. Open Command Prompt
 2. Type in a command in order to scan a public test server. You will also be able to see a list of open ports and services.
 3. Scan a device on your network. For example, 192.168.1.1, replace it with the IP of your router or any other device. This will show what is running and which ports are open.
